@@ -1,2 +1,4 @@
 # fitbit-influxdb
-export deviced data from FitBit into InfluxDB
+export device data from FitBit into InfluxDB
+
+
